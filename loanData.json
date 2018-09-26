@@ -1,0 +1,65 @@
+{
+  "loanList": {
+    "listCont": [
+      {
+        "title": "优企贷1805084...",
+        "rate": "7.0",
+        "term": 95,
+        "termType": "天",
+        "isFinish": true,
+        "bidStatus": "已满标",
+        "progress": 100
+      },
+      {
+        "title": "优企贷1825084...",
+        "desMod": "",
+        "rate": "7.0",
+        "term": 95,
+        "termType": "天",
+        "isFinish": true,
+        "bidStatus": "还款中",
+        "progress": 100
+      },
+      {
+        "title": "优企贷1815084...",
+        "desMod": "上市公司母公司担保",
+        "rate": "7.8",
+        "term": 1,
+        "termType": "月",
+        "isFinish": false,
+        "bidStatus": "立即买入",
+        "progress": 10
+      },
+      {
+        "title": "优企贷1804084...",
+        "desMod": "上市公司母公司担保",
+        "rate": "7.2",
+        "term": 95,
+        "termType": "天",
+        "isFinish": true,
+        "bidStatus": "还款中",
+        "progress": 100
+      },
+      {
+        "title": "优企贷1803084...",
+        "desMod": "中信国旅深圳分公司担保",
+        "rate": "7.5",
+        "term": 365,
+        "termType": "天",
+        "isFinish": true,
+        "bidStatus": "还款中",
+        "progress": 100
+      },
+      {
+        "title": "个人借款180302...",
+        "desMod": "",
+        "rate": "9.0",
+        "term": 10,
+        "termType": "月",
+        "isFinish": false,
+        "bidStatus": "立即买入",
+        "progress": 0
+      }
+    ]
+  }
+}
